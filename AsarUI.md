@@ -9,6 +9,9 @@
 
 ![Asar UI](build/icons/256x256.png)
 
+GIT : https://github.com/myazarc/AsarUI
+
+
 ## Links for Download
 * [Click Here(Releases)](https://github.com/myazarc/AsarUI/releases) 
 * [For Ubuntu](https://snapcraft.io/asarui) 
