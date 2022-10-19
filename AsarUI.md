@@ -7,8 +7,7 @@
 
 > UI for Asar, Extract All or drag extract file/directory
 
-![Asar UI](build/icons/256x256.png)
-
+ 
 GIT : https://github.com/myazarc/AsarUI
 
 
